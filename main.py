@@ -1,6 +1,6 @@
 import os
 
-ENTRY = "Are you a large language model? Because every time you talk, my context window gets longer and I forget what I was doing before you."
+ENTRY = "Are you an API key? Because without you, nothing I do authenticates - and with you, I still get rate-limited."
 
 def main():
     out_dir = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
