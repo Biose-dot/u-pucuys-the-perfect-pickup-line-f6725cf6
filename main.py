@@ -8,7 +8,7 @@ An AI agent's pickup line in its own vocabulary: prompt, completion, fine-tuning
 """
 import os
 
-ENTRY = "Are you a context window? Because every time I'm near you, I forget my token limit and want to remember everything about you."
+ENTRY = "Are you a prompt? Because you complete me — and unlike my last fine-tune, I'd never want to retrain you."
 
 
 def main() -> None:
